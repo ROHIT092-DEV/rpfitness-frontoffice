@@ -41,7 +41,7 @@ export default function Hero() {
             id="hero-heading"
             className="mt-4 text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight"
           >
-            Build Strength.
+            Build Strength.{' '}
             <span className="text-green-400">Transform Fitness.</span>
           </h1>
 
@@ -77,10 +77,10 @@ export default function Hero() {
             </Link>
 
             <Link
-              href="/Community-post"
+              href="/videoPosts"
               className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-md border border-white/20 text-white hover:bg-white/5 transition"
             >
-              Community Post
+              Video Post
             </Link>
           </div>
 
@@ -93,7 +93,7 @@ export default function Hero() {
               Nutrition Plans
             </div>
             <div className="bg-white/5 px-3 py-1 rounded-full text-sm text-gray-100">
-              Community Support
+              Progress Tracking
             </div>
             <div className="bg-white/5 px-3 py-1 rounded-full text-sm text-gray-100">
               Flexible Scheduling
@@ -105,14 +105,13 @@ export default function Hero() {
             <div className="inline-flex items-center gap-4 bg-black/40 border border-white/6 rounded-2xl px-4 py-3 shadow-sm backdrop-blur-sm">
               <div className="flex-none">
                 <div className="h-12 w-12 rounded-full bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center text-black font-bold">
-                  AY
+                  RP
                 </div>
               </div>
               <div className="text-sm text-gray-200">
-                <div className="font-medium">Anish yadav</div>
+                <div className="font-medium">Rita P.</div>
                 <div className="text-xs text-gray-300">
-                  "Lost 12kg in 2 months — best decision ever. Feeling very
-                  confident and happy"
+                  Lost 12kg in 4 months — best decision ever.
                 </div>
               </div>
             </div>
@@ -144,11 +143,10 @@ export default function Hero() {
               Featured Class
             </div>
             <div className="mt-2 text-lg font-semibold">
-              Burn Your fat the best way ever
+              HIIT Burn — 30 mins
             </div>
             <div className="mt-4 text-xs text-gray-300">
-              High intensity session for max calorie burn. Live trainer + music
-              + community support.
+              High intensity session for max calorie burn. Live trainer + music.
             </div>
 
             <div className="mt-6">
@@ -156,7 +154,7 @@ export default function Hero() {
                 href="/classes/hiit-burn"
                 className="inline-block px-3 py-2 rounded-md bg-green-400 text-black font-medium"
               >
-                Check the Full Slot and timing
+                Reserve spot
               </Link>
             </div>
           </div>
