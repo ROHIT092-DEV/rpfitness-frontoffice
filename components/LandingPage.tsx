@@ -93,7 +93,7 @@ export default function Hero() {
               Nutrition Plans
             </div>
             <div className="bg-white/5 px-3 py-1 rounded-full text-sm text-gray-100">
-              Progress Tracking
+              Best community Support
             </div>
             <div className="bg-white/5 px-3 py-1 rounded-full text-sm text-gray-100">
               Flexible Scheduling
@@ -105,13 +105,13 @@ export default function Hero() {
             <div className="inline-flex items-center gap-4 bg-black/40 border border-white/6 rounded-2xl px-4 py-3 shadow-sm backdrop-blur-sm">
               <div className="flex-none">
                 <div className="h-12 w-12 rounded-full bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center text-black font-bold">
-                  RP
+                  AY
                 </div>
               </div>
               <div className="text-sm text-gray-200">
-                <div className="font-medium">Rita P.</div>
+                <div className="font-medium">Anish Yadav</div>
                 <div className="text-xs text-gray-300">
-                  Lost 12kg in 4 months — best decision ever.
+                  Lost 12kg in 2 months — best decision ever.
                 </div>
               </div>
             </div>
@@ -154,7 +154,7 @@ export default function Hero() {
                 href="/classes/hiit-burn"
                 className="inline-block px-3 py-2 rounded-md bg-green-400 text-black font-medium"
               >
-                Reserve spot
+                View Slot for your comfort time shedule
               </Link>
             </div>
           </div>
