@@ -41,7 +41,7 @@ export default function Hero() {
             id="hero-heading"
             className="mt-4 text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight"
           >
-            Build Strength.{' '}
+            Build Strength.
             <span className="text-green-400">Transform Fitness.</span>
           </h1>
 
